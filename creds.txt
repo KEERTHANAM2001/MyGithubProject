@@ -1,2 +1,0 @@
-username=keerthanam
-password=123456
